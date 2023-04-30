@@ -1,15 +1,14 @@
 # Lab Week 4 - JS Language Intro, Diagramming and DevTools Part 2
 
 ## Website Info
-- Github Pages: https://pa4school.github.io/sp23-cse110-lab3/
+- Github Pages: https://pa4school.github.io/sp23-cse110-lab4/
 
 ## Description
 
-This repo contains my work for the lab assignment for CSE 110 that aims to teach me some basic concepts and skills in JavaScript, DevTools, and diagramming. In this lab, I learned how to use variables, data types, operators, loops, functions, debugging tools, network tab, flowcharts, and more.
+This lab is an assignment for CSE 110 that introduces me to some fundamental aspects of JavaScript, DevTools, and diagramming. In this lab, I practiced how to use variables, scopes, data types, operators, loops, functions, callbacks, timers, debugging tools, network tab, flowcharts, and more.
 
-The lab consists of three parts: Expose, Explore, and Expand. The first part is required and worth 8 points out of 10. The second part is optional but recommended and worth 2 points. The third part is also optional and worth no points or extra credit, but it helped me think critically about the lab material and the goal of the lab itself.
+The lab has three parts: Expose, Explore, and Expand. In the Expose part, I learned about the basics of JavaScript and how to use Chrome DevTools to debug a faulty program. In the Explore part, I learned about the basics of JavaScript and how to use Chrome DevTools to debug a faulty program. In the Expand part, I learned about the basics of JavaScript and how to use Chrome DevTools to debug a faulty program.
 
-To complete this lab, I needed to have Node installed on my computer and a GitHub account. I also needed to install the draw.io extension for VSCode to do the diagramming part, followed the instructions on the web page context to create the necessary files and directories for each part of the lab. I also used Chrome DevTools to debug a simple program and observe network requests.
+To do this lab, I needed to have Node installed on my computer and a GitHub account. I also needed to install the draw.io extension for VSCode to do the diagramming part. I followed the instructions on the web page context to create the required files and folders for each part of the lab. I also used Chrome DevTools to debug a faulty program and inspect network requests.
 
-
-This description gives you an overview of what this project is about and what I did. I hope you find it useful and interesting! 😁
+This description summarizes what this project is about and what I did. I hope you find it informative and engaging! 😊
